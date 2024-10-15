@@ -5,7 +5,7 @@ const menu = [
     category: 'house',
     price: '$$ - $$$',
     img: '/images/Zero-Water.jpg',
-    desc: `Best-tasting water we have had to date! Best Feature- multi-levels of different filtration target many impurities`,
+    desc: `Best-tasting water we have had to date! Best Feature- multi-levels of different filtration target many impurities.`,
   },
   {
     id: 2,
